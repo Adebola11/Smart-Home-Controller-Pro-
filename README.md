@@ -59,12 +59,12 @@ Event-Driven Programming: Reactive UI updates based on user actions
 State Management: Centralized device state with real-time synchronization
 Pub/Sub Logging: Centralized action logging system
 Core Components
-Device Dictionary (Lines 16-23): Central data store for all devices
-Event Handlers (Lines 95-130): User interaction processing
-UI Components (Lines 234-401): Reusable device card widgets
-Navigation System (Lines 127-215): Multi-page routing
-Logging System (Lines 73-93): Action tracking and notifications
-Statistics Engine (Lines 600-836): Data analysis and visualization
+Device Dictionary: Central data store for all devices
+Event Handlers: User interaction processing
+UI Components: Reusable device card widgets
+Navigation System: Multi-page routing
+Logging System: Action tracking and notifications
+Statistics Engine: Data analysis and visualization
 Use Cases
 Homeowners
 Monitor and control all smart devices from a single interface
